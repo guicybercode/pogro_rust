@@ -100,3 +100,5 @@ The audio system is structured to support:
 
 Enjoy the colorful, aesthetic Pong experience!
 
+"그러므로 보라 내가 그를 타일러 거친 들로 데리고 가서 그의 마음에 말하며"
+
