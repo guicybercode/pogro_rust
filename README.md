@@ -2,6 +2,11 @@
 
 A vibrant, animated version of the classic Pong game built with Rust and Macroquad.
 
+<div align="center">
+
+
+<img src="pong.png" width="800"/>
+
 ## Features
 
 - **Rainbow Visual Effects**: Animated rainbow colors throughout the game with smooth color transitions
